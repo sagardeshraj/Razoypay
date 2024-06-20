@@ -1,0 +1,11 @@
+.pay{
+  outline: none;
+  padding: 1rem 2rem;
+  color: black;
+  background: rgb(235, 201, 35);
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  font-weight: 700;
+  
+}
